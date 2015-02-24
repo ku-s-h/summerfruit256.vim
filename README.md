@@ -1,4 +1,4 @@
-UMMERFRUIT256 VIM THEME
+SUMMERFRUIT256 VIM THEME
 ---
 
 #####Q. What's new about this fork ?
